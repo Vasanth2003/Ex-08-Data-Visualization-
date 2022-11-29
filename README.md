@@ -100,3 +100,4 @@ grid.map(sns.barplot, 'Profit', 'Segment', alpha=.5, ci=None)
 grid.add_legend()
 ~~~
 # OUPUT
+## Data Visualization - Superstore.csv
