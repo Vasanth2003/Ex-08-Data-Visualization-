@@ -101,3 +101,11 @@ grid.add_legend()
 ~~~
 # OUPUT
 ## Data Visualization - Superstore.csv
+![Ex-08-Data-Visualization-](https://github.com/Vasanth2003/Ex-08-Data-Visualization-/blob/main/img.png)
+![Ex-08-Data-Visualization-](https://github.com/Vasanth2003/Ex-08-Data-Visualization-/blob/main/img2.png)
+![Ex-08-Data-Visualization-](https://github.com/Vasanth2003/Ex-08-Data-Visualization-/blob/main/img3.png)
+![Ex-08-Data-Visualization-](https://github.com/Vasanth2003/Ex-08-Data-Visualization-/blob/main/img4.png)
+![Ex-08-Data-Visualization-](https://github.com/Vasanth2003/Ex-08-Data-Visualization-/blob/main/img5.png)
+![Ex-08-Data-Visualization-](https://github.com/Vasanth2003/Ex-08-Data-Visualization-/blob/main/img6.png)
+![Ex-08-Data-Visualization-](https://github.com/Vasanth2003/Ex-08-Data-Visualization-/blob/main/img7.png)
+![Ex-08-Data-Visualization-](https://github.com/Vasanth2003/Ex-08-Data-Visualization-/blob/main/img8.png)
